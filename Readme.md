@@ -6,7 +6,7 @@ La clasificación más aceptada es la generación de aviones, donde ubica un avi
 
 _Aunque es confuso por el tiempo que permanece una aeronave en producción y por las modernización e algunas de estas, esto complica la ubicación de estos._
 
-¡[Gaviones](Users\Luckas\Desktop\PrimerRepo\Gaviones.png)
+¡[Gaviones.png](\\Luckas\Desktop\PrimerRepo\Gaviones.png)
 
 ---
 + **Primera Generación**
